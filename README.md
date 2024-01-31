@@ -1,16 +1,15 @@
-### Hi there 👋
+# 💫 About Me:
+Go<br>Rust<br>neovim<br>nix
 
-<!--
-**rage28/rage28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=plastic&logo=NixOS&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=plastic&logo=podman&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=plastic&logo=sonarqube&logoColor=white&color=%234E9BCD) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=plastic&logo=kibana&logoColor=white&color=%23005571) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![ISTIO](https://img.shields.io/badge/istio-466BB0.svg?style=plastic&logo=istio&logoColor=white&color=%23466BB0) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white&color=%23F46800)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rage28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rage28&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rage28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=rage28&icon=2&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
